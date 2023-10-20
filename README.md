@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm fosuri</h1>
+<h1 align="center">Hello, I'm fosuri!</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="center">I am studying:</h2>
+
 
 ###
 
