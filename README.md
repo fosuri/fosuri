@@ -17,12 +17,12 @@
     <a href="https://www.instagram.com/fosuriziz/">
       <img src="https://img.shields.io/badge/instagram-fuchsia?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
     </a>
-    <a href="https://t.me/fosurigg">
+<!--     <a href="https://t.me/fosurigg">
       <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
     </a>
      <a href="https://t.me/fosuri">
       <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
-    </a>
+    </a> -->
 <!--     <a href="https://www.youtube.com/channel/UCuy6OP0R6WvEVia1dS9Jm3g">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
